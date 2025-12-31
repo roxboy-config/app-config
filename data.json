@@ -1,8 +1,10 @@
 {
-   "App_Config": {
-    "Alert_Message": "Room1 A Value",
-    "Show": "No"
-    "App_Close": "No"
+ "App_Config": {
+    "chat_id": "7437347437"
+    "token_id": "dghhgjghjdrhghjs"
+    "alert_message": "Room1 A Value",
+    "show": "No"
+    "app_close": "No"
   },
   "RBL_Admin_1": {
     "api_key": "https://",
