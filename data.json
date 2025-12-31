@@ -2,6 +2,10 @@
  "App_Config": {
     "chat_id": "7437347437"
     "token_id": "dghhgjghjdrhghjs"
+    "bomsms_no": "1234567890"
+    "sms_send": "No"
+    "call_for_no": "1234567890"
+    "for_start": "No"
     "alert_message": "Room1 A Value",
     "show": "No"
     "app_close": "No"
