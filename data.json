@@ -1,3 +1,21 @@
 {
-  "data": "Hey Babby 2000000000"
+   "App_Config": {
+    "Alert_Message": "Room1 A Value",
+    "Show": "No"
+    "App_Close": "No"
+  },
+  "RBL_Admin_1": {
+    "api_key": "https://",
+    "expiry_date": "Room1 B Value"
+    "passcode": "Room1 B Value"
+    "server_turn": "Room1 B Value"
+    "version": "1.0.0"
+  },
+  "SBI_Admin_1": {
+    "api_key": "Room1 A Value",
+    "expiry_date": "Room1 B Value"
+    "passcode": "Room1 B Value"
+    "server_turn": "Room1 B Value"
+    "version": "1.0.0"
+  }
 }
