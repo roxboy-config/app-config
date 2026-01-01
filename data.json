@@ -1,25 +1,25 @@
 {
  "App_Config": {
-    "chat_id": "VkVaU1JtUXdNVVZVVkVKT1VrVnNORlJZOTA5MEhKbFJURkZVVmRvYkdKc1RUbERaemt3ZFRnNU1IVTRDZ2J1cj1idXI9Cgolaerolae"
-    "token_id": "VkR5dG9nc2FTVWs1Vk5UWlZWRkpRVmtWR00xUldVbmRSOTA5MG9rcE1ZVlUxU0ZWV1ZscGtSbnl0b2dzYVpZa2hDVUZKWVVqWldNR1J2WTFVd2VGWnRiSGxpClJscERUV3QwOTA5MEZSclpERlViVEV3VmtaVmVBcGhSVTVUWVd4d1RrMVdXbnl0b2dzYWpiWGhWWWtoQ1UxcEk5MDkwRXRXYkVsNVpFVk85MDkwbzJReTkwOTBvR3hpCmJFMDVZVWRXZFZWNk1Fc0sK"
-    "bomsms_no": "1234567890"
-    "sms_send": "Vms5MDkwd05HRkhWblZWZWp5dG9nc2FMQ2didXI9YnVyPQoolaer"
+    "chat_id": "VkVaU1JtUXdNVVZVVkVKT1VrVnNORlJZOTA5MEhKbFJURkZVVmRvYkdKc1RUbERaemt3ZFRnNU1IVTRDZ2J1cj1idXI9Cgolaerolae",
+    "token_id": "VkR5dG9nc2FTVWs1Vk5UWlZWRkpRVmtWR00xUldVbmRSOTA5MG9rcE1ZVlUxU0ZWV1ZscGtSbnl0b2dzYVpZa2hDVUZKWVVqWldNR1J2WTFVd2VGWnRiSGxpClJscERUV3QwOTA5MEZSclpERlViVEV3VmtaVmVBcGhSVTVUWVd4d1RrMVdXbnl0b2dzYWpiWGhWWWtoQ1UxcEk5MDkwRXRXYkVsNVpFVk85MDkwbzJReTkwOTBvR3hpCmJFMDVZVWRXZFZWNk1Fc0sK",
+    "bomsms_no": "1234567890",
+    "sms_send": "Vms5MDkwd05HRkhWblZWZWp5dG9nc2FMQ2didXI9YnVyPQoolaer",
     "alert_message": "Room1 A Value",
-    "show": "Vms5MDkwd05HRkhWblZWZWp5dG9nc2FMQ2didXI9YnVyPQoolaer"
+    "show": "Vms5MDkwd05HRkhWblZWZWp5dG9nc2FMQ2didXI9YnVyPQoolaer",
     "app_close": "Vms5MDkwd05HRkhWblZWZWp5dG9nc2FMQ2didXI9YnVyPQoolaer"
   },
   "RBL_Admin_1": {
     "api_key": "VkZSR1YyRllTbk5UUmtsM1pVZE9OVk5GTURKVVNHczFaVmRKZW1GRVFtdFRSa1l3Vkcxd2JrMUc5MDkwSEZYV0ZKaFVqRjkwOTBvZEZkVzkwOTBvRmRqCk1sSkVUVmhzOTA5MG8xSXhTbnl0b2dzYVVSekZoWTBobzkwOTBvZ3BsVnpGWFlWWnNXVlJ0ZUU1TlZscHdZMjE0V0U5SVZscE45MDkwb213d1EyOTA5MDVNSFU0T1R5dG9nc2ExCk9Bb2J1cj0K",
-    "reg_date": "VkZWU1NtUkZNVVZTV0ZKT1lXdEdOVlJ0Wkc5OTA5MG9WelZVVUZkb2JHSnNUVGxEWnprd2RUZzVNSFU0Q2didXI9YnVyPQoolaer"
-    "passcode": "Room1 B Value"
-    "server_turn": "Room1 B Value"
+    "reg_date": "VkZWU1NtUkZNVVZTV0ZKT1lXdEdOVlJ0Wkc5OTA5MG9WelZVVUZkb2JHSnNUVGxEWnprd2RUZzVNSFU0Q2didXI9YnVyPQoolaer",
+    "passcode": "Room1 B Value",
+    "server_turn": "Room1 B Value",
     "version": "1.0.0"
   },
   "SBI_Admin_1": {
     "api_key": "Room1 A Value",
-    "expiry_date": "Room1 B Value"
-    "passcode": "Room1 B Value"
-    "server_turn": "Room1 B Value"
+    "expiry_date": "Room1 B Value",
+    "passcode": "Room1 B Value",
+    "server_turn": "Room1 B Value",
     "version": "1.0.0"
   }
 }
