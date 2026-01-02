@@ -3,13 +3,12 @@
     "bomsms_no": "1234567890",
     "sms_send": "No",
     "alert_message": "Hey Dear ,Any Problem Contact Telegrm @roxboydeveloper And Any Apk/Panel/RDP Buy contact now.",
-    "update_api": "update"
+    "update_api": "No"
   },
   "RBL_Admin_1": {
     "api_key": "VkZSR1YyRllTbk5UUmtsM1pVZE9OVk5GTURKVVNHczFaVmRKZW1GRVFtdFRSa1l3Vkcxd2JrMUc5MDkwSEZYV0ZKaFVqRjkwOTBvZEZkVzkwOTBvRmRqCk1sSkVUVmhzOTA5MG8xSXhTbnl0b2dzYVVSekZoWTBobzkwOTBvZ3BsVnpGWFlWWnNXVlJ0ZUU1TlZscHdZMjE0V0U5SVZscE45MDkwb213d1EyOTA5MDVNSFU0T1R5dG9nc2ExCk9Bb2J1cj0K",
     "reg_date": "02-01-2026",
-    "passcode": "Room1 B Value",
     "server_turn": "Room1 B Value",
-    "version": "1.0.0"
+    "version": "1.0"
   }
 }
